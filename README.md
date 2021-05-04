@@ -8,6 +8,11 @@ In the project directory, you can run:
 
 ### Aqcuire giphy API key
 
+Place into
+```
+src/screens/main/index.js
+```
+
 ### `npm i`
 
 Install required packages
